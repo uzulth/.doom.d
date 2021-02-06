@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: console.warn
+# key: clw
+# condition: t
+# --
+console.warn('debug', ${1:const});

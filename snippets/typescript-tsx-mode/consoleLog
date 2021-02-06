@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: console.log
+# key: clg
+# condition: t
+# --
+console.log('debug', ${1:const});

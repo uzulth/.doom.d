@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: console.log('debug')
+# uuid:
+# key: clg
+# condition: t
+# --

@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: React function component
+# key: rfc
+# condition: t
+# --
+import React from 'react';
+
+const ${1:ComponentName} = () => {
+  return(
+    <div></div>
+  )
+};
+
+export default $1;
